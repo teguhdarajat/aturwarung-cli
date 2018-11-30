@@ -74,9 +74,6 @@ void hapusData(int id){
             status = true;
             break;
         }
-        else{
-            status == false;
-        }
     }
     if(status == false){
         cout << "Data tidak ditemukan!\n";
